@@ -1,7 +1,10 @@
-Olá eu sou o João Guilherme
+Olá, eu sou João Guilherme! 👋
 
-- 🔭 Atualmente estudo na faculdade SENAC-PE
-- 🌱 Estudando python e ciência de dados
+💻 Graduando em Análise e Desenvolvimento de Sistemas | SENAC-PE
+🎓 Graduado em Ciências Contábeis | UNICAP-PE
+📊 Estagiário em Análise de Dados | Focado em People Analytics
+📚 Explorando: Python, Power BI, Matemática, Estatística, Negócios e Machine Learning
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joaopontesdados/">
