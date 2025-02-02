@@ -1,6 +1,6 @@
 Olá, eu sou João Guilherme! 👋
 
-- 💻 Graduando em Análise e Desenvolvimento de Sistemas | SENAC-PE
+- 💻 Graduando em Análise e Desenvolvimento de Sistemas | SENAC-SP
 - 🎓 Graduado em Ciências Contábeis | UNICAP-PE
 - 📊 Estagiário em Análise de Dados | Focado em People Analytics
 - 📚 Explorando: Python, Power BI, Matemática, Estatística, Negócios e Machine Learning
